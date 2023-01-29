@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sageellefson0
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently learning Basic HTML and CSS
+- 👀 I’m interested in becoming a software engineer
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
