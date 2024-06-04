@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @sageellefson0
-- 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning Java and Python
+- 👋 Hi, I’m Sage
+- 👀 I'm a graduate from Western Governors University with a Bachelors in Software Engineering
 - 📫 How to reach me sageellefson29@gmail.com
 
 <!---
