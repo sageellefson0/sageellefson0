@@ -1,5 +1,9 @@
 ## Hi, I’m Sage
-I'm an aspiring full-stack software developer and a recent graduate from Western Governors University with a Bachelors of Science in Software Engineering.
+- Full-stack developer <br>
+- Graduate from Western Governors University with a Bachelors of Science in Software Engineering
+- Game and game development enthusiast
+- 
+
 
 I'm an eager learner and always looking to expand my development toolkit. I'm open to most any experience that will allow me to grow and learn as a software engineer. The technologies I'm primarily using right now are Java, Python, C++, JavaScript, HTML, CSS, SQL, and Visual Basic for Applications. I'm actively learning PHP and XML.
 
