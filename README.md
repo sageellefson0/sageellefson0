@@ -31,11 +31,12 @@ I'm an eager learner and always looking to expand my development toolkit. I'm op
 <a href="mailto:sageellefson29@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  sageellefson29@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 
-## Certifications
+## Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=sageellefson0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+
+## Certifications   
 • AWS Cloud Practioner <br>
 • IT Information Library Foundations<br>
 • CompTIA Project+<br>
 • Google IT Support Professional<br>
 
-## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sageellefson0&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
